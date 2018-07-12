@@ -1,0 +1,11 @@
+C:\Source\BloomFilterConsole\BloomFilterConsole\bin\Debug\netcoreapp2.1\BloomFilterConsole.deps.json
+C:\Source\BloomFilterConsole\BloomFilterConsole\bin\Debug\netcoreapp2.1\BloomFilterConsole.runtimeconfig.json
+C:\Source\BloomFilterConsole\BloomFilterConsole\bin\Debug\netcoreapp2.1\BloomFilterConsole.runtimeconfig.dev.json
+C:\Source\BloomFilterConsole\BloomFilterConsole\bin\Debug\netcoreapp2.1\BloomFilterConsole.dll
+C:\Source\BloomFilterConsole\BloomFilterConsole\bin\Debug\netcoreapp2.1\BloomFilterConsole.pdb
+C:\Source\BloomFilterConsole\BloomFilterConsole\obj\Debug\netcoreapp2.1\BloomFilterConsole.csprojAssemblyReference.cache
+C:\Source\BloomFilterConsole\BloomFilterConsole\obj\Debug\netcoreapp2.1\BloomFilterConsole.csproj.CoreCompileInputs.cache
+C:\Source\BloomFilterConsole\BloomFilterConsole\obj\Debug\netcoreapp2.1\BloomFilterConsole.AssemblyInfoInputs.cache
+C:\Source\BloomFilterConsole\BloomFilterConsole\obj\Debug\netcoreapp2.1\BloomFilterConsole.AssemblyInfo.cs
+C:\Source\BloomFilterConsole\BloomFilterConsole\obj\Debug\netcoreapp2.1\BloomFilterConsole.dll
+C:\Source\BloomFilterConsole\BloomFilterConsole\obj\Debug\netcoreapp2.1\BloomFilterConsole.pdb
