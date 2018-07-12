@@ -8,9 +8,6 @@ namespace BloomFilterConsole
         private static byte[] _bloomFilter;
         static void Main(string[] args)
         {
-            //Console.WriteLine("Press Enter to Start");
-            //var wordsAdded = false;
-
             Run();
             //Make sure console doesnt close
             while (Console.ReadKey().Key != ConsoleKey.Escape)
